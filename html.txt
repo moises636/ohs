@@ -1,1 +1,24 @@
 
+HTML
+
+week 1 notes
+
+1. HTML is the structure of a website (it's the skeleton of a website
+
+2. make up of tags 
+      <head>            </head>
+    begining tag        end tag
+    
+    
+3. <!doctype>
+  <HTML>
+      <head>
+          <title> my first paragraph </title>
+      </head>
+      
+        <body>
+          <h1> my first paragraph <h1>
+          <p> my first paragraph </p>
+        </body>
+        
+        </HTML>
