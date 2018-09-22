@@ -3,7 +3,7 @@ HTML
 
 week 1 notes
 
-1. HTML is the structure of a website (it's the skeleton of a website
+1. HTML is the structure of a website (it's the skeleton of a website)
 
 2. make up of tags 
       <head>            </head>
@@ -17,7 +17,7 @@ week 1 notes
       </head>
       
         <body>
-          <h1> my first paragraph <h1>
+          <h1> my first paragraph </h1>
           <p> my first paragraph </p>
         </body>
         
